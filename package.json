@@ -1,0 +1,17 @@
+{
+  "name": "fb_bot",
+  "version": "1.0.0",
+  "description": "Fb messenger bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aayush Sahgal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "omdb": "^0.5.0",
+    "request": "^2.72.0"
+  }
+}
